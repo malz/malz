@@ -1,6 +1,6 @@
 👋 Hi, I’m @malz (Adam Malowiecki)
 
-I’m interested in Big Data, DevOps, Cloud Infrastructure Ops and Functional Programming. Currently I am the Engineering Manager of the Machine Learning Platform team and the Data Quality Management team at Mercari Japan. I'm located in Tokyo, Japan but originally from Brisbane, Australia.
+I’m interested in Big Data, DevOps, Cloud Infrastructure Ops and Functional Programming. Currently I am the Engineering Manager of the Data Engineering division as well as the Machine Learning Platform team at Mercari Japan. I'm located in Tokyo, Japan but originally from Brisbane, Australia.
 
 My main programming language is Python, but I've also used Javascript (ES6 and NodeJS) in the past for full stack web development, Scala, Golang, and Java for development in the past as well. I like to challenge myself with new languages and have played around with Rust and Haskell to learn more about programming paradigms.
 
